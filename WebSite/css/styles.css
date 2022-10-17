@@ -121,6 +121,25 @@ p {
     transform:scale(1.5);
 }
 
+/* Info IMG */
+
+.img1{
+    position: relative;
+
+    left: -10rem;
+    top: -6rem;
+
+}
+
+.img2{
+    position: relative;
+    width: 60rem;
+    right: -10rem;
+
+
+    
+}
+
 /* Features */ 
 
 
